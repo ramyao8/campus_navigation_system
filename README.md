@@ -85,12 +85,6 @@ Edge weights are randomly assigned for demo purposes and can be customized for r
 
 🔄 Zoom and pan functionality for the map
 
-📂 File Structure
-Copy
-Edit
-campus_navigation_system/
-├── campus_nav_sys.py
-├── README.md
-└── requirements.txt
-📄 License
+
+**📄 License**
 This project is licensed under the MIT License.
