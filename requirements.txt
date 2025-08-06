@@ -1,0 +1,9 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```text
+streamlit
+networkx
+matplotlib
